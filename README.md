@@ -1,14 +1,14 @@
 <!-- Profil README pour SkyNigh1 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bienvenue+chez+SkyNigh1+!;Développeur+Java+%7C+Artiste+3D+%7C+Builder+Minecraft" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
   <strong>Bienvenue chez SkyNigh1 !</strong>
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SkyNigh1&label=Vues+du+profil&color=blueviolet&style=flat" alt="Vues du profil" />
+</p>
 
 ---
 
