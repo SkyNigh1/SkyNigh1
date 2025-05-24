@@ -66,7 +66,7 @@
 ### 📫 Me contacter
 
 - ✉️ Via GitHub : [@SkyNigh1](https://github.com/SkyNigh1)
-- 🌍 Basé à Vannes, Bretagne, France 🇫🇷
+- via Instagram : [@skynight.builds](https://www.instagram.com/skynight.builds/)
 
 ---
 
