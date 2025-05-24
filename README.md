@@ -33,7 +33,7 @@
 
 ### 📂 Projets phares
 
-- 🔧 [SkymcDB](https://github.com/SkyNigh1/SkymcDB) : Logiciel en Jaba pour le build sur Minecraft
+- 🔧 [SkymcDB](https://github.com/SkyNigh1/SkymcDB) : Logiciel en Java pour le build sur Minecraft
 - 🌐 [SkyNight Building Website](https://github.com/SkyNigh1/SkyNight-Building-website) : Site vitrine pour mes créations
 - 🎨 [RGB Quadri Radial Interpolation](https://github.com/SkyNigh1/RGB-Quadri-Radial-Interpolation) : Méthode avancée d'interpolation de couleurs en 2D:contentReference[oaicite:10]{index=10}
 
