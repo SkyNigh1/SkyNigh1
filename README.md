@@ -14,9 +14,8 @@
 
 ### 👤 À propos de moi
 
-- 🧱 **Builder Minecraft** passionné, membre de la **Team Sanctuary**
 - 🛠️ **Développeur Java** de l'outil [SkymcDB](https://github.com/SkyNigh1/SkymcDB)
-- 🎨 **Artiste 3D** spécialisé dans les rendus et les environnements immersifs
+- 🎨 **Artiste 3D** spécialisé dans les rendus 3D d'oeuvres / build Minecraft
 - 🌐 Mon Portfolio de builder -> [SkyNight Builds](https://skynightbuilds.com)
 
 ---
