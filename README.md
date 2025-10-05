@@ -14,9 +14,8 @@
 
 ### 👤 À propos de moi
 
-- 🛠️ **Développeur Java** de l'outil [SkymcDB](https://github.com/SkyNigh1/SkymcDB) son site web ici -> [SkymcDB webPage](https://skynightbuilds.com/skymcdb)
+- 🛠️ **Développeur Java** de l'outil [SkymcDB](https://github.com/SkyNigh1/SkymcDB) 
 - 🎨 **Artiste 3D** spécialisé dans les rendus 3D d'oeuvres / build Minecraft
-- 🌐 Mon Portfolio de builder -> [SkyNight Builds](https://skynightbuilds.com)
 
 ---
 
@@ -52,13 +51,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SkyNigh1&theme=radical&no-bg=true&no-frame=true" alt="Trophées GitHub" />
 </p>
-
----
-
-### 📣 Me soutenir
-
-- 💖 [Patreon – SkyNightBuilds](https://patreon.com/SkyNightBuilds)
-- 🤝 [Team Sanctuary](https://github.com/SkyNigh1)
 
 ---
 
