@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Salut,+I'm+SkyNight;Welcome+to+my+profile;Building+cool+stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Hey,+I'm+SkyNight;Welcome+to+my+profile;Building+cool+stuff" />
 </h1>
 
 <p align="center">
@@ -54,7 +54,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,python,java,php,mysql,postgres,mongodb,firebase,supabase,graphql,docker,vercel,netlify,cloudflare,linux,bash,githubactions,git,github,vscode,vim,blender,discord,electron,npm,pnpm,vite&theme=dark&perline=12" />
   <br>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
 <br>
